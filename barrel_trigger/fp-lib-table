@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name barrel)(type KiCad)(uri D:/barrel/barrel_board_kicad/barrel.pretty)(options "")(descr ""))
+)
